@@ -1,1 +1,1 @@
-function App() { return React.createElement('div', { style: { padding: '40px', textAlign: 'center', fontFamily: 'Arial' } }, React.createElement('h1', null, 'Hello from Reacture!'), React.createElement('p', null, 'This portfolio was deployed successfully!')); }
+function App() { return React.createElement("div", { style: { padding: "40px", textAlign: "center" } }, React.createElement("h1", null, "Hello from Reacture!"), React.createElement("p", null, "Portfolio deployed successfully!")); }
